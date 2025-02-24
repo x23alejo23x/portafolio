@@ -115,64 +115,62 @@ export const DATA = {
     
     
     {
-      title: "llm.report",
-      href: "https://llm.report",
-      dates: "April 2023 - September 2023",
+      title: "jv-camiones",
+      href: "https://jv-camiones-front-landing.vercel.app/",
+      dates: "Enero 2025 - Enero 2025",
       active: true,
       description:
-        "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+        "El proyecto consiste en el desarrollo de una landing page para camiones utilizando React y Tailwind CSS, enfocada en ofrecer una interfaz moderna, rápida y responsive.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "React",
+        "Framer Motion",
+        "Java Script",
         "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
+        "HTML",
+        "PHP",
+        "Figma",
+        "Git Hub",
+        "Node"
+
       ],
       links: [
         {
           type: "Website",
-          href: "https://llm.report",
+          href: "https://jv-camiones-front-landing.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
+          href: "https://github.com/x23alejo23x/jv_camiones_front_landing",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/ucompensar.png"
+      image: "/proyecto-jvcamiones.png"
 
     },
     {
-      title: "Automatic Chat",
-      href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
+      title: "Lista De Tareas",
+      href: "https://project-react-to-do.vercel.app/",
+      dates: "Octubre 2024",
       active: true,
       description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+        "desarrollode un todo list implentando la tecnologia de react y TailwindCSS",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "React",
+        "framer motion",
+        "Java Script",
         "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
+        "HTML",
+        
       ],
       links: [
         {
           type: "Website",
-          href: "https://automatic.chat",
+          href: "https://project-react-to-do.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/ucompensar.png"
+      image: "/proyecto-Todo.png"
       ,
       
     },
